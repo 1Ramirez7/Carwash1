@@ -1,1 +1,21 @@
 /* css styles */
+
+
+/* car wash 4 was table code/
+
+/* Remove all horizontal lines in the table */
+table {
+    border-collapse: collapse;
+  }
+  
+  table th, table td {
+    border: none;
+    padding: 8px;
+  }
+  
+  table tr {
+    border-bottom: none;
+  }
+  
+/* end css code for 4 carwash table code/
+  

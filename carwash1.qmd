@@ -1,6 +1,9 @@
 ---
 layout: cv
 title: ""
+format:  # remove this if table for 4 wash is remove
+  html: # remove this if table for 4 wash is remove
+    css: styles.css # remove this if table for 4 wash is remove
 ---
 
 # Welcome to Our Car Wash
@@ -19,6 +22,28 @@ Welcome to our car wash, where we offer top-notch services to keep your vehicles
 
 # Touchless Car Wash
 
+
+| Double Wash & Wax - $14                                                                                       | Ultimate Wash - $10                                                                                           |
+|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| - Undercarriage Blaster                                                                                       | - Undercarriage Blaster                                                                                       |
+| - Double Hot Presoak Soaking                                                                                  | - Double Hot Presoak Soaking                                                                                  |
+| - High Pressure Rinse                                                                                         | - High Pressure Rinse                                                                                         |
+| - Triple Foam Conditioner                                                                                     | - ArmorAll Triple Foam Conditioner                                                                            |
+| - Extreme Shine Wax with Carnauba                                                                             | - ArmorAll Clear Coat Protectant                                                                              |
+| - RainX Complete Protectant                                                                                   | - RainX Complete Protectant                                                                                   |
+| - Spot-Free Rinse                                                                                             | - Spot-Free Rinse                                                                                             |
+| - Dryer                                                                                                       | - Dryer                                                                                                       |
+
+| Deluxe Wash - $8                                                                                              | Basic Wash - $6                                                                                               |
+|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| - Undercarriage Blaster                                                                                       | - Double Presoak Soaking                                                                                      |
+| - Double Presoak Soaking                                                                                      | - High Pressure Rinse                                                                                         |
+| - High Pressure Rinse                                                                                         | - Spot-Free Rinse                                                                                             |
+| - ArmorAll Clear Coat Protectant                                                                              |                                                                                                               |
+| - Dryer                                                                                                       |                                                                                                               |
+
+
+
 ![](Images/automatic-bay_washmenu.jpg)
 
 # Automatic Bays 
@@ -35,3 +60,10 @@ Welcome to our car wash, where we offer top-notch services to keep your vehicles
 
 # Contact 
 ![](Images/replace.jpg)
+
+
+## Contact Information
+
+**Email:** [Stanthony@southfreemontcarwash.com](mailto:Stanthony@southfreemontcarwash.com)  
+**Phone:** (208) 530-6283  
+**Address:** 225 E Yellowstone Hwy, St Anthony, ID 83445 
