@@ -7,18 +7,31 @@ title: ""
 
 ![](Images/carwash_logo.png)
 
-![](Images/automatic-bay_washmenu.jpg)
 
 
 # About Us
 
-Welcome to our car wash! We provide top-notch services to keep your car looking brand new.
+Welcome to our car wash, where we offer top-notch services to keep your vehicles spotless. We have 3 self-serve bays, including a large truck bay perfect for washing RVs, trucks, trailers, and more. Our state-of-the-art automatic “Touchless” car wash uses superior chemicals for presoak, soap, wax, sealants, and a spot-free rinse. Enjoy our powerful arched vacuums with a 180-degree swivel, making it easy to vacuum any car or truck. Situated on 1 acre of land, we provide ample space to wash and detail cars, trucks, RVs, ATVs, boats, and other vehicles.
+
+![](Images/frontview_carwash.jpg)
+
+
+
+# Touchless Car Wash
+
+![](Images/automatic-bay_washmenu.jpg)
+
+# Automatic Bays 
 
 ![](Images/selfserve_pmt_and_controls.jpg)
 
 
-![](Images/frontview_carwash.jpg)
 ![](Images/selfserve_menu_pmt.jpg)
 
+# Vacuums
+
 ![](Images/3vacuums.jpg)
+
+
+# Contact 
 ![](Images/replace.jpg)
