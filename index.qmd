@@ -39,12 +39,27 @@ Enjoy a quick and effective clean with our Basic Wash package. This includes Dou
 
 # Automatic Bays 
 
+We offer three self-serve bays, including a large truck bay designed for washing RVs, trucks, trailers, and more. Situated on 1 acre of land, our facility provides ample space to wash and detail cars, trucks, RVs, ATVs, boats, and other vehicles. Our bays are equipped with the latest features to ensure a thorough and convenient cleaning experience:
+
+* Presoak: Apply to the entire vehicle from bottom to top for optimal cleaning.
+* Soap: High-quality soap for effective cleaning.
+* Foam Brush: For scrubbing painted surfaces gently but effectively.
+* Gloss Wax: Apply from bottom to top for a shiny finish.
+* Rinse: Rinse the entire vehicle from top to bottom with high pressure.
+* Spot-Free Rinse: A final rinse with spot-free water for a spotless finish.
+* Air-Dry: Use the air gun to blow dry the vehicle.
+
+Our self-serve bays accept both quarters and credit cards for your convenience. Simply swipe your card or deposit quarters to start. The timer displays the cycle, and you can press the stop button to end the charges when you are done. Enjoy a thorough and easy washing experience with us.
+
+
 ![](Images/selfserve_pmt_and_controls.jpg)
 
 
 ![](Images/selfserve_menu_pmt.jpg)
 
 # Vacuums
+
+Our facility features four powerful arched vacuums designed for convenience and efficiency. Each vacuum boasts a 180-degree swivel, making it easy to reach and clean every corner of your car or truck. Whether you're detailing the interior or just need a quick clean-up, our vacuums provide the power and flexibility you need for a spotless finish. Enjoy a hassle-free vacuuming experience with our state-of-the-art equipment.
 
 ![](Images/3vacuums.jpg)
 
