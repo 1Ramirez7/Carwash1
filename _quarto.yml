@@ -22,7 +22,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "So. FREMONT CAR WASH"
-        file: resume.qmd
+        file: carwash1.qmd
       
 format:  
   html:
