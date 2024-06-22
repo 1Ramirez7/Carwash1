@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Eduardo I Ramirez Data Science Portfolio"
+  title: "So. FREMONT CAR WASH"
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: https://1ramirez7.github.io/Carwash1
@@ -10,7 +10,7 @@ website:
 
   page-footer: 
     border: true
-    left: "Eduardo I Ramirez 2024©"
+    left: "So. FREMONT CAR WASH©"
     right: 
       - icon: linkedin
         href: linkedin.com/in/eduardo-ramirez-lds
@@ -21,18 +21,8 @@ website:
     right:
       - text: "Home"
         file: index.qmd
-      - text: "My Resume"
+      - text: "So. FREMONT CAR WASH"
         file: resume.qmd
-      - text: "Data Exploration"
-        file: exploration.qmd
-      - text: "Story Telling"
-        file: story_telling.qmd
-      - text: "Machine Learning"
-        file: ml.qmd
-      - text: "Full Stack"
-        file: full_stack.qmd
-      - text: "Competition"
-        file: competition.qmd
       
 format:  
   html:
