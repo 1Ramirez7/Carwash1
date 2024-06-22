@@ -1,21 +1,24 @@
 ---
 layout: cv
-title: Eduardo I. Ramirez's CV
+title: ""
 ---
 
 # Welcome to Our Car Wash
 
-<img src="Images/automatic-bay1.jpg" alt="Automatic Bay Car Wash 1">
+![](Images/carwash_logo.png)
+
+![](Images/automatic-bay_washmenu.jpg)
+
 
 # About Us
 
+Welcome to our car wash! We provide top-notch services to keep your car looking brand new.
 
-<img src="Images/automatic-bay2.jpg" alt="Automatic Bay Car Wash 2">
-
-
-<img src="Images/self-serve1.jpg" alt="Self-Serve Bay 1">
-<img src="Images/self-serve2.jpg" alt="Self-Serve Bay 2">
+![](Images/selfserve_pmt_and_controls.jpg)
 
 
-<img src="Images/vacuums1.jpg" alt="Vacuums 1">
-<img src="Images/vacuums2.jpg" alt="Vacuums 2">
+![](Images/frontview_carwash.jpg)
+![](Images/selfserve_menu_pmt.jpg)
+
+![](Images/3vacuums.jpg)
+![](Images/replace.jpg)
