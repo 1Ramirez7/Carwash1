@@ -1,10 +1,39 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "So FREMONT CAR WASH"
+subtitle: "LOCATED IN ST ANTHONY, IDAHO"
 ---
 
-# Title 1 Header
-## Title 2 Header
+# Welcome to Our Car Wash
+
+![](Images/carwash_logo.png)
+
+
+
+# About Us
+
+Welcome to our car wash, where we offer top-notch services to keep your vehicles spotless. We have 3 self-serve bays, including a large truck bay perfect for washing RVs, trucks, trailers, and more. Our state-of-the-art automatic “Touchless” car wash uses superior chemicals for presoak, soap, wax, sealants, and a spot-free rinse. Enjoy our powerful arched vacuums with a 180-degree swivel, making it easy to vacuum any car or truck. Situated on 1 acre of land, we provide ample space to wash and detail cars, trucks, RVs, ATVs, boats, and other vehicles.
+
+![](Images/frontview_carwash.jpg)
+
+
+
+# Touchless Car Wash
+
+![](Images/automatic-bay_washmenu.jpg)
+
+# Automatic Bays 
+
+![](Images/selfserve_pmt_and_controls.jpg)
+
+
+![](Images/selfserve_menu_pmt.jpg)
+
+# Vacuums
+
+![](Images/3vacuums.jpg)
+
+
+# Contact 
+![](Images/replace.jpg)
 
 
