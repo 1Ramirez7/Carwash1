@@ -124,6 +124,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a>
   <ul class="collapse">
   <li><a href="#contact-information" id="toc-contact-information" class="nav-link" data-scroll-target="#contact-information">Contact Information</a></li>
+  <li><a href="#send-a-review" id="toc-send-a-review" class="nav-link" data-scroll-target="#send-a-review">Send a Review</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://1ramirez7.github.io/Carwash1/issues/new" class="toc-action"><i class="bi bi-git"></i>Report an issue</a></li></ul></div></nav>
@@ -244,6 +245,14 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Email:</strong> <a href="mailto:Stanthony@southfreemontcarwash.com">Stanthony@southfreemontcarwash.com</a><br>
 <strong>Phone:</strong> (208) 530-6283<br>
 <strong>Address:</strong> 225 E Yellowstone Hwy, St Anthony, ID 83445</p>
+</section>
+<section id="send-a-review" class="level2">
+<h2 class="anchored" data-anchor-id="send-a-review">Send a Review</h2>
+<form action="http://127.0.0.1:5000/submit" method="POST">
+<label for="name">Name:</label> <input type="text" id="name" name="name" required=""><br><br> <label for="email">Email or Phone Number:</label> <input type="text" id="email" name="email" required=""><br><br> <label for="message">Message:</label><br>
+<textarea id="message" name="message" rows="4" required=""></textarea>
+<br><br> <input type="submit" value="Submit">
+</form>
 
 
 </section>
