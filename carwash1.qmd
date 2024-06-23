@@ -1,9 +1,9 @@
 ---
 layout: cv
 title: ""
-format:  # remove this if table for 4 wash is remove
-  html: # remove this if table for 4 wash is remove
-    css: styles.css # remove this if table for 4 wash is remove
+format:  # remove this if table for 4 wash options is remove
+  html: # remove this if table for 4 wash options is remove
+    css: styles.css # remove this if table for 4 wash options is remove
 ---
 
 # Welcome to Our Car Wash
@@ -70,6 +70,8 @@ Welcome to our car wash, where we offer top-notch services to keep your vehicles
 
 
 ## Send a Review
+
+We welcome your feedback, comments, and reviews. Please fill out the form below to get in touch with us.
 
 <form action="http://127.0.0.1:5000/submit" method="POST">
     <label for="name">Name:</label>

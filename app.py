@@ -37,3 +37,5 @@ if __name__ == '__main__':
 
 
 # app gmail psw 'jqku emne ftsh tadk'
+# DELETE THIS PY FILE IF NOT IN USE, THIS IS FOR THE FLASK APP, CODE BEING USE IN THE 
+# CARWASH1.QMD FILE
