@@ -67,3 +67,16 @@ Welcome to our car wash, where we offer top-notch services to keep your vehicles
 **Email:** [Stanthony@southfreemontcarwash.com](mailto:Stanthony@southfreemontcarwash.com)  
 **Phone:** (208) 530-6283  
 **Address:** 225 E Yellowstone Hwy, St Anthony, ID 83445 
+
+
+## Send a Review
+
+<form action="http://127.0.0.1:5000/submit" method="POST">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required><br><br>
+    <label for="email">Email or Phone Number:</label>
+    <input type="text" id="email" name="email" required><br><br>
+    <label for="message">Message:</label><br>
+    <textarea id="message" name="message" rows="4" required></textarea><br><br>
+    <input type="submit" value="Submit">
+</form>
