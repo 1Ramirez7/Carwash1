@@ -7,7 +7,9 @@ subtitle: "LOCATED IN ST ANTHONY, IDAHO"
 
 ![](Images/carwash_logo.png)
 
+<div class="flex-container">
 
+<div class="flex-item">
 
 # About Us
 
@@ -15,29 +17,23 @@ Welcome to our car wash, where we offer top-notch services to keep your vehicles
 
 ![](Images/frontview_carwash.jpg)
 
+</div>
 
+<div class="flex-item">
 
 # Touchless Car Wash
 
 ## Double Wash & Wax - $14
 
-Experience our premium “Touchless” car wash with the Double Wash & Wax package. This includes an Undercarriage Blaster, Double Hot Presoak Soaking, High Pressure Rinse, Triple Foam Conditioner, Extreme Shine Wax with Carnauba, RainX Complete Protectant, Spot-Free Rinse, and Dryer. Get your car looking its best with a thorough and efficient clean.
-
-## Ultimate Wash - $10
-
-Treat your car to our Ultimate Wash package. This includes an Undercarriage Blaster, Double Hot Presoak Soaking, High Pressure Rinse, ArmorAll Triple Foam Conditioner, ArmorAll Clear Coat Protectant, RainX Complete Protectant, Spot-Free Rinse, and Dryer. Enjoy a comprehensive clean that leaves your vehicle protected and shining.
-
-## Deluxe Wash - $8
-
-Give your car a thorough clean with our Deluxe Wash package. This includes an Undercarriage Blaster, Double Presoak Soaking, High Pressure Rinse, ArmorAll Clear Coat Protectant, and Dryer. Get a great clean and protect your car’s finish at an affordable price.
-
-## Basic Wash - $6
-
-Enjoy a quick and effective clean with our Basic Wash package. This includes Double Presoak Soaking, High Pressure Rinse, and Spot-Free Rinse. Get your car looking fresh and clean with our convenient Basic Wash.
+Experience our premium “Touchless” car wash with the Double Wash & Wax package. This includes an Undercarriage Blaster, Double Hot Presoak Soaking, High Pressure Rinse, Triple Foam Conditioner, Enhanced Carnauba Wax, Spot Free Rinse, and High Velocity Dry. Ensure your vehicle receives the ultimate protection and clean with our convenient Basic Wash.
 
 ![](Images/automatic-bay_washmenu.jpg)
 
-# Automatic Bays 
+</div>
+
+</div>
+
+# Automatic Bays
 
 We offer three self-serve bays, including a large truck bay designed for washing RVs, trucks, trailers, and more. Situated on 1 acre of land, our facility provides ample space to wash and detail cars, trucks, RVs, ATVs, boats, and other vehicles. Our bays are equipped with the latest features to ensure a thorough and convenient cleaning experience:
 
@@ -51,9 +47,7 @@ We offer three self-serve bays, including a large truck bay designed for washing
 
 Our self-serve bays accept both quarters and credit cards for your convenience. Simply swipe your card or deposit quarters to start. The timer displays the cycle, and you can press the stop button to end the charges when you are done. Enjoy a thorough and easy washing experience with us.
 
-
 ![](Images/selfserve_pmt_and_controls.jpg)
-
 
 ![](Images/selfserve_menu_pmt.jpg)
 
@@ -63,7 +57,6 @@ Our facility features four powerful arched vacuums designed for convenience and 
 
 ![](Images/3vacuums.jpg)
 
-
 # Get in Touch
 ![](Images/replace.jpg)
 
@@ -71,5 +64,4 @@ Our facility features four powerful arched vacuums designed for convenience and 
 
 **Email:** [Stanthony@southfreemontcarwash.com](mailto:Stanthony@southfreemontcarwash.com)  
 **Phone:** (208) 530-6283  
-**Address:** 225 E Yellowstone Hwy, St Anthony, ID 83445 
-
+**Address:** 225 E Yellowstone Hwy, St Anthony, ID 83445
