@@ -3,6 +3,8 @@ title: "So FREMONT CAR WASH"
 subtitle: "LOCATED IN ST ANTHONY, IDAHO"
 ---
 
+<div class="full-width">
+
 # Welcome to Our Car Wash
 
 ![](Images/carwash_logo.png)
@@ -65,3 +67,5 @@ Our facility features four powerful arched vacuums designed for convenience and 
 **Email:** [Stanthony@southfreemontcarwash.com](mailto:Stanthony@southfreemontcarwash.com)  
 **Phone:** (208) 530-6283  
 **Address:** 225 E Yellowstone Hwy, St Anthony, ID 83445
+
+</div>

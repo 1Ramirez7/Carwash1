@@ -40,3 +40,20 @@ table {
 }
 
 /* this is the end code for the side by side code for the index.qmd file */
+
+
+
+
+/* Full-width content this part moves away from the ds250 set up */
+.full-width {
+  max-width: 100%;
+  padding: 0 20px;
+}
+
+/* Ensure the main content covers a wider area */
+main {
+  width: 100%;
+  max-width: 1200px; /* You can adjust this value */
+  margin: 0 auto;
+}
+/* end of full-width code */
