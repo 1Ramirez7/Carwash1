@@ -57,3 +57,16 @@ main {
   margin: 0 auto;
 }
 /* end of full-width code */
+
+
+/* this code adds the bubbles imagine to the index file */
+body {
+  background-image: url('Images/lightbluebubbles_background.jpg');
+  background-size: cover;  /* Cover the entire viewport */
+  background-position: center;  /* Center the background image */
+  background-repeat: no-repeat;  /* Do not repeat the image */
+  background-attachment: fixed;  /* Keep the background fixed during scrolling */
+  min-height: 100vh;  /* Minimum height of 100% of the viewport */
+}
+
+/* end of code that adds bubbles imagine to index.qmd */

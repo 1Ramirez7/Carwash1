@@ -7,8 +7,6 @@ subtitle: "LOCATED IN ST ANTHONY, IDAHO"
 
 # Welcome to Our Car Wash
 
-
-
 ![](Images/carwash_logo.png)
 
 <div class="flex-container">
