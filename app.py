@@ -25,7 +25,7 @@ def submit():
     email = request.form['email']
     message = request.form['message']
 
-    msg = Message('New Contact Form Submission', recipients=['3am1r3z@gmail.com'])  # Replace with your destination email
+    msg = Message('New Contact Form Submission', recipients=['eduardo.er.ramirez@gmail.com'])  # Replace with your destination email
     msg.body = f"Name: {name}\nEmail: {email}\nMessage: {message}"
     mail.send(msg)
     
