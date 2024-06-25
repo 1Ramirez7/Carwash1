@@ -1,16 +1,16 @@
 ---
 layout: cv
 title: ""
-format:  # remove this if table for 4 wash options is remove
-  html: # remove this if table for 4 wash options is remove
-    css: styles.css # remove this if table for 4 wash options is remove
+format:
+  html:
+    css: styles.css
 ---
+
+<div class="custom-width">
 
 # Welcome to Our Car Wash
 
 ![](Images/carwash_logo.png)
-
-
 
 # About Us
 
@@ -18,10 +18,7 @@ Welcome to our car wash, where we offer top-notch services to keep your vehicles
 
 ![](Images/frontview_carwash.jpg)
 
-
-
 # Touchless Car Wash
-
 
 | Double Wash & Wax - $14                                                                                       | Ultimate Wash - $10                                                                                           |
 |---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -42,14 +39,11 @@ Welcome to our car wash, where we offer top-notch services to keep your vehicles
 | - ArmorAll Clear Coat Protectant                                                                              |                                                                                                               |
 | - Dryer                                                                                                       |                                                                                                               |
 
-
-
 ![](Images/automatic-bay_washmenu.jpg)
 
 # Automatic Bays 
 
 ![](Images/selfserve_pmt_and_controls.jpg)
-
 
 ![](Images/selfserve_menu_pmt.jpg)
 
@@ -57,17 +51,14 @@ Welcome to our car wash, where we offer top-notch services to keep your vehicles
 
 ![](Images/3vacuums.jpg)
 
-
 # Contact 
 ![](Images/replace.jpg)
-
 
 ## Contact Information
 
 **Email:** [Stanthony@southfreemontcarwash.com](mailto:Stanthony@southfreemontcarwash.com)  
 **Phone:** (208) 530-6283  
 **Address:** 225 E Yellowstone Hwy, St Anthony, ID 83445 
-
 
 ## Send a Review
 
@@ -82,3 +73,5 @@ We welcome your feedback, comments, and reviews. Please fill out the form below 
     <textarea id="message" name="message" rows="4" required></textarea><br><br>
     <input type="submit" value="Submit">
 </form>
+
+</div>

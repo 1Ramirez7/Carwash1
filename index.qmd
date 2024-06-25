@@ -30,6 +30,4 @@ format:
 </div>
 
 
-Look into why pushing this to github washing using 16 threads and it took for ever. maybe the links are not the best way to go, there is definetly another way that is better suited for my code.
-
 
