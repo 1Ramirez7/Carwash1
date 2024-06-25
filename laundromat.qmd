@@ -6,60 +6,57 @@ format:  # remove this if table for 4 wash options is remove
     css: styles.css # remove this if table for 4 wash options is remove
 ---
 
-# Welcome to Our Car Wash
+# Welcome to Our Laundromat
 
-![](Images/carwash_logo.png)
+![](Images/north_side_wall.jpg)
 
 
 
 # About Us
 
-Welcome to our car wash, where we offer top-notch services to keep your vehicles spotless. We have 3 self-serve bays, including a large truck bay perfect for washing RVs, trucks, trailers, and more. Our state-of-the-art automatic “Touchless” car wash uses superior chemicals for presoak, soap, wax, sealants, and a spot-free rinse. Enjoy our powerful arched vacuums with a 180-degree swivel, making it easy to vacuum any car or truck. Situated on 1 acre of land, we provide ample space to wash and detail cars, trucks, RVs, ATVs, boats, and other vehicles.
+Location has 15 Washers & 15 dryers
 
-![](Images/frontview_carwash.jpg)
+* one 80lb capacity washer
+* two 60lb capacity
+* six 40lb capacity
+* six 30lb capacity
+
+* one 80lb capacity dryer
+* four 40lb capacity dryers
+* ten 60lb capacity dryers
 
 
+# Use the speed queen app
 
-# Touchless Car Wash
+Our location uses the speed queen payment system. You will be able to select washers and dryers and the type of cycle through the speed queen app. 
 
-
-| Double Wash & Wax - $14                                                                                       | Ultimate Wash - $10                                                                                           |
-|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| - Undercarriage Blaster                                                                                       | - Undercarriage Blaster                                                                                       |
-| - Double Hot Presoak Soaking                                                                                  | - Double Hot Presoak Soaking                                                                                  |
-| - High Pressure Rinse                                                                                         | - High Pressure Rinse                                                                                         |
-| - Triple Foam Conditioner                                                                                     | - ArmorAll Triple Foam Conditioner                                                                            |
-| - Extreme Shine Wax with Carnauba                                                                             | - ArmorAll Clear Coat Protectant                                                                              |
-| - RainX Complete Protectant                                                                                   | - RainX Complete Protectant                                                                                   |
-| - Spot-Free Rinse                                                                                             | - Spot-Free Rinse                                                                                             |
-| - Dryer                                                                                                       | - Dryer                                                                                                       |
-
-| Deluxe Wash - $8                                                                                              | Basic Wash - $6                                                                                               |
-|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| - Undercarriage Blaster                                                                                       | - Double Presoak Soaking                                                                                      |
-| - Double Presoak Soaking                                                                                      | - High Pressure Rinse                                                                                         |
-| - High Pressure Rinse                                                                                         | - Spot-Free Rinse                                                                                             |
-| - ArmorAll Clear Coat Protectant                                                                              |                                                                                                               |
-| - Dryer                                                                                                       |                                                                                                               |
+![](Images/speedqueen_kiosk.jpg)
 
 
 
-![](Images/automatic-bay_washmenu.jpg)
 
-# Automatic Bays 
+# Payment options
 
-![](Images/selfserve_pmt_and_controls.jpg)
+You can pay using the app or simply pay with quaters at the machine. 
+
+![](Images/dryer_screen_decal.jpg)
+
+# Dryer wall
+
+![](Images/alldryers_fromnorth.jpg)
 
 
-![](Images/selfserve_menu_pmt.jpg)
+# Change machine 
 
-# Vacuums
+![](Images/coin_machine.jpg)
 
-![](Images/3vacuums.jpg)
+# spacer
+
+![](Images/dryer_screen_decal.jpg)
 
 
 # Contact 
-![](Images/replace.jpg)
+![](Images/dryer_screen_decal.jpg)
 
 
 ## Contact Information
