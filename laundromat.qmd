@@ -28,7 +28,12 @@ Location has 15 Washers & 15 dryers
 
 # Use the speed queen app
 
-Our location uses the speed queen payment system. You will be able to select washers and dryers and the type of cycle through the speed queen app. 
+Our location uses the speed queen payment system. You will be able to select washers and dryers and the type of cycle through the speed queen app.  
+
+Choose the link below that applies to your mobile device. 
+
+[Google play store or Samsung devices,](https://play.google.com/store/apps/details?id=com.alliancelaundry.app.speedqueen) Apple Devices, Xiaomi Devices.
+
 
 ![](Images/speedqueen_kiosk.jpg)
 
