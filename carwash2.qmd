@@ -3,7 +3,7 @@ title: "So FREMONT CAR WASH"
 subtitle: "LOCATED IN ST ANTHONY, IDAHO"
 ---
 
-<div class="full-width">
+<div class="custom-width">
 
 # Welcome to Our Car Wash
 
