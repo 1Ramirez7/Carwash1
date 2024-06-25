@@ -22,6 +22,7 @@ table {
 
 /* this is for the index.qmd file to have side by side in pc and top and bottom in mobile */
 /* Flex container for responsive sections */
+/* added code to use in the new index.qmd file so the pictures are limited to a certain lenght and width. */
 .flex-container {
   display: flex;
   flex-wrap: wrap;
@@ -31,6 +32,14 @@ table {
 .flex-item {
   flex: 1 1 45%;
   margin: 10px;
+  box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
+  text-align: center; /* Center the content */
+}
+
+.flex-item img {
+  max-width: 100%;
+  height: auto;
+  display: block; /* Ensures there's no extra space below the image */
 }
 
 @media (max-width: 768px) {
@@ -38,6 +47,7 @@ table {
     flex: 1 1 100%;
   }
 }
+
 
 /* this is the end code for the side by side code for the index.qmd file */
 
