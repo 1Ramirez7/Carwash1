@@ -1,14 +1,35 @@
 ---
-title: "Main Page"
+title: "Welcome to So. FREMONT CAR WASH & LAUNDROMAT"
 format: 
   html:
     includes:
       in_header: "styles.css"
 ---
 
-## Welcome to So. FREMONT CAR WASH & LAUNDROMAT
 
-Please select a service:
 
-- [Car Wash Services](carwash1.qmd)
-- [Laundromat Services](laundromat.qmd)
+# Please select a service:
+
+
+
+
+<div class="flex-container">
+
+<div class="flex-item">
+  <a href="carwash1.qmd">
+    <img src="Images/carwash_logo.png" alt="Car Wash">
+  </a>
+</div>
+
+<div class="flex-item">
+  <a href="laundromat.qmd">
+    <img src="Images/north_side_wall.jpg" alt="Laundromat">
+  </a>
+</div>
+
+</div>
+
+
+Look into why pushing this to github washing using 16 threads and it took for ever. maybe the links are not the best way to go, there is definetly another way that is better suited for my code.
+
+
