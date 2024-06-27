@@ -8,7 +8,7 @@ format:  # remove this if table for 4 wash options is remove
 
 # Welcome to Our Laundromat
 
-![](Images/north_side_wall.jpg)
+![](Images/2_laundry_logo.jpeg)
 
 
 
@@ -17,14 +17,16 @@ format:  # remove this if table for 4 wash options is remove
 Location has 15 Washers & 15 dryers
 
 * one 80lb capacity washer
-* two 60lb capacity
-* six 40lb capacity
-* six 30lb capacity
+* two 60lb capacity washers
+* Five 40lb capacity washers
+* Five 30lb capacity washers
+* Two 20lb capacity washers
 
-* one 80lb capacity dryer
-* four 40lb capacity dryers
-* ten 60lb capacity dryers
+* one 75lb capacity dryer
+* four 30lb capacity dryers
+* ten 45lb capacity dryers
 
+![](Images/2_fivewasher_view_westside.jpg)
 
 # Use the speed queen app
 
@@ -48,7 +50,7 @@ You can pay using the app or simply pay with quaters at the machine.
 
 # Dryer wall
 
-![](Images/alldryers_fromnorth.jpg)
+![](Images/2_dryers&tables.jpg)
 
 
 # Change machine 

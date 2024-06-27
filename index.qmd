@@ -23,7 +23,7 @@ format:
 
 <div class="flex-item">
   <a href="laundromat.qmd">
-    <img src="Images/north_side_wall.jpg" alt="Laundromat">
+    <img src="Images/2_laundry_logo.jpeg" alt="Laundromat">
   </a>
 </div>
 

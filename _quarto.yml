@@ -11,9 +11,6 @@ website:
   page-footer: 
     border: true
     left: "So. FREMONT CAR WASH©"
-    right: 
-      - icon: linkedin
-        href: linkedin.com/in/eduardo-ramirez-lds
 
   navbar:
     background: primary
