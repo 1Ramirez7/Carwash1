@@ -1,14 +1,16 @@
 ---
 layout: cv
 title: ""
-format:  
+format:  # remove if styles.css is not in use
   html: 
-    css: styles.css
+    css: styles.css 
 ---
 
 # Welcome to Our Laundromat
 
 ![](Images/2_laundry_logo.jpeg)
+
+
 
 # About Us
 
@@ -19,6 +21,7 @@ Location has 15 Washers & 15 dryers
 * Five 40lb capacity washers
 * Five 30lb capacity washers
 * Two 20lb capacity washers
+
 * one 75lb capacity dryer
 * four 30lb capacity dryers
 * ten 45lb capacity dryers
@@ -27,79 +30,115 @@ Location has 15 Washers & 15 dryers
 
 # Use the speed queen app
 
-Our location uses the speed queen payment system. You will be able to select washers and dryers and the type of cycle through the speed queen app.
+Our location uses the speed queen payment system. You will be able to select washers and dryers and the type of cycle through the speed queen app.  
 
-Choose the link below that applies to your mobile device.
+Choose the link below that applies to your mobile device. 
 
 [Google play store or Samsung devices,](https://play.google.com/store/apps/details?id=com.alliancelaundry.app.speedqueen) Apple Devices, Xiaomi Devices.
 
+
 ![](Images/speedqueen_kiosk.jpg)
+
+
 
 # Wash Menu
 
-<div class="flex-container">
-  <div class="flex-item">
-    ![](Images/2_wash_menu_40lb_1.jpg)
-  </div>
-  <div class="flex-item">
-    ![](Images/2_wash_menu_40lb_2.jpg)
-  </div>
-</div>
+
 
 <div class="flex-container">
-  <div class="flex-item">
-    ![](Images/2_wash_menu_40lb_3.jpg)
-  </div>
-  <div class="flex-item">
-    ![](Images/2_wash_menu_40lb_4.jpg)
-  </div>
+
+<div class="flex-item">
+
+![](Images/2_wash_menu_40lb_1.jpg)
+
 </div>
+
+<div class="flex-item">
+
+![](Images/2_wash_menu_40lb_2.jpg)
+
+</div>
+
+</div>
+
+
 
 <div class="flex-container">
-  <div class="flex-item">
-    ![](Images/2_wash_menu_40lb_5.jpg)
-  </div>
-  <div class="flex-item">
-    ![](Images/2_wash_menu_40lb_6.jpg)
-  </div>
+
+<div class="flex-item">
+
+![](Images/2_wash_menu_40lb_3.jpg)
+
 </div>
+
+<div class="flex-item">
+
+![](Images/2_wash_menu_40lb_4.jpg)
+
+</div>
+
+</div>
+
 
 <div class="flex-container">
-  <div class="flex-item">
-    ![](Images/2_wash_menu_40lb_7.jpg)
-  </div>
-  <div class="flex-item">
-    ![](Images/2_wash_menu_40lb_speedcycle.jpg)
-  </div>
+
+<div class="flex-item">
+
+![](Images/2_wash_menu_40lb_5.jpg)
+
 </div>
+
+<div class="flex-item">
+
+![](Images/2_wash_menu_40lb_6.jpg)
+
+</div>
+
+</div>
+
+
 
 <div class="flex-container">
-  <div class="flex-item">
-    ![](Images/2_wash_rinse_machine.jpg)
-  </div>
-  <div class="flex-item">
-    ![](Images/2_wash_languages.jpg)
-  </div>
+
+<div class="flex-item">
+
+![](Images/2_wash_menu_40lb_7.jpg)
+
 </div>
 
-# Image Gallery
+<div class="flex-item">
 
-<div class="scroll-container">
-  <img src="Images/2_wash_menu_40lb_1.jpg" alt="Image 1">
-  <img src="Images/2_wash_menu_40lb_2.jpg" alt="Image 2">
-  <img src="Images/2_wash_menu_40lb_3.jpg" alt="Image 3">
-  <img src="Images/2_wash_menu_40lb_4.jpg" alt="Image 4">
-  <img src="Images/2_wash_menu_40lb_5.jpg" alt="Image 5">
-  <img src="Images/2_wash_menu_40lb_6.jpg" alt="Image 6">
-  <img src="Images/2_wash_menu_40lb_7.jpg" alt="Image 7">
-  <img src="Images/2_wash_menu_40lb_speedcycle.jpg" alt="Image 8">
-  <img src="Images/2_wash_rinse_machine.jpg" alt="Image 9">
-  <img src="Images/2_wash_languages.jpg" alt="Image 10">
+![](Images/2_wash_menu_40lb_speedcycle.jpg)
+
 </div>
+
+</div>
+
+
+
+<div class="flex-container">
+
+<div class="flex-item">
+
+![](Images/2_wash_rinse_machine.jpg)
+
+</div>
+
+<div class="flex-item">
+
+![](Images/2_wash_languages.jpg)
+
+</div>
+
+</div>
+
+
+
+
 
 # Payment options
 
-You can pay using the app or simply pay with quarters at the machine.
+You can pay using the app or simply pay with quaters at the machine. 
 
 ![](Images/dryer_screen_decal.jpg)
 
@@ -107,23 +146,26 @@ You can pay using the app or simply pay with quarters at the machine.
 
 ![](Images/2_dryers&tables.jpg)
 
-# Change machine
+
+# Change machine 
 
 ![](Images/coin_machine.jpg)
 
-# Spacer
+# spacer
 
 ![](Images/dryer_screen_decal.jpg)
 
-# Contact
 
+# Contact 
 ![](Images/dryer_screen_decal.jpg)
+
 
 ## Contact Information
 
 **Email:** [Stanthony@southfreemontcarwash.com](mailto:Stanthony@southfreemontcarwash.com)  
 **Phone:** (208) 530-6283  
 **Address:** 225 E Yellowstone Hwy, St Anthony, ID 83445 
+
 
 ## Send a Review
 
