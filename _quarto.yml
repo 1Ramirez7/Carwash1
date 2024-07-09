@@ -24,6 +24,8 @@ website:
         file: carwash2.qmd
       - text: "Laundromat"
         file: laundromat.qmd
+      - text: "Car Wash # 3"
+        file: carwash3.qmd
       
 format:  
   html:
