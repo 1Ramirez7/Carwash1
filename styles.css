@@ -54,20 +54,6 @@ table {
 
 
 
-/* Full-width content this part moves away from the ds250 set up */ /* not using this one as of 6/25, maybe delete soon */ /* was using for carwash2 only */
-.full-width {
-  max-width: 100%;
-  padding: 0 20px;
-}
-
-/* Ensure the main content covers a wider area */
-main {
-  width: 100%;
-  max-width: 1200px; /* You can adjust this value */
-  margin: 0 auto;
-}
-/* end of full-width code */
-
 
 /* this code adds the bubbles imagine to the index file */
 body {
@@ -98,5 +84,19 @@ body {
 
 
 
+/* This is for laundromat2.qmd and its for the scrollable images for the wash menu */
 
+.scroll-container {
+  display: flex;
+  overflow-x: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
 
+.scroll-container img {
+  flex: 0 0 auto;
+  margin-right: 10px;
+  width: 300px; /* Adjust width as necessary */
+}
+
+/* end of scrollable code for wash menu */
