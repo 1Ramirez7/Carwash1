@@ -100,3 +100,12 @@ body {
 }
 
 /* end of scrollable code for wash menu */
+
+
+
+/* this is for the white table background for wash prices */
+.wash-cycles-table table {
+  background-color: white; /* Ensures only the specified table has a white background */
+}
+
+/* end of css for white table background */

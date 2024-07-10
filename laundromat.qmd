@@ -1,9 +1,9 @@
 ---
 layout: cv
 title: ""
-format:  # remove this if table for 4 wash options is remove
-  html: # remove this if table for 4 wash options is remove
-    css: styles.css # remove this if table for 4 wash options is remove
+format: 
+  html: 
+    css: styles.css # wash cycles table
 ---
 
 # Welcome to Our Laundromat
@@ -39,7 +39,87 @@ Choose the link below that applies to your mobile device.
 
 ![](Images/speedqueen_kiosk.jpg)
 
+# Wash Cycle Cost
 
+<div class="wash-cycles-table"> <!-- remove div if white bckground is not needed -->
+
+| Wash Type    | 20 lb | 30 lb | 40 lb | 60 lb | 80 lb |
+|--------------|-------|-------|-------|-------|-------|
+| Normal       | $3.50 | $4.50 | $5.50 | $7.50 | $9.50 |
+| Synthetics   | $3.50 | $4.50 | $4.50 | $7.50 | $9.50 |
+| Delicates    | $3.50 | $4.50 | $5.50 | $7.50 | $9.50 |
+| Colors       | $4.50 | $5.50 | $6.50 | $7.50 | $9.50 |
+| Whites       | $4.50 | $5.50 | $6.50 | $8.50 | $10.50 |
+| Mix          | $4.50 | $5.50 | $6.50 | $7.50 | $9.50 |
+| Woolens      | $3.50 | $4.50 | $6.50 | $7.50 | $9.50 |
+| Bedding      | $4.75 | $5.75 | $6.50 | $7.50 | $11.50 |
+| Hot Wash     | $3.50 | $4.50 | $6.50 | $7.50 | $9.50 |
+| Warm Wash    | $3.50 | $4.50 | $6.50 | $7.50 | $9.50 |
+| Cotton       | $3.50 | $4.50 | $6.50 | $7.50 | $9.50 |
+| High Speed Spin | $3.50 | $4.50 | $6.50 | $7.50 | $-.-- |
+| Rinse the Machine | $0.25 | $0.25 | $0.25 | $0.25 | $0.25 |
+| Deep Clean   | $5.50 | $6.50 | $7.50 | $9.50 | $11.50 |
+
+</div> <!-- remove div porrtion only if white bckground not needed -->
+
+
+__Normal__
+A basic wash meant for common fabrics and everyday clothing. Uses a strong agitation to deep clean heavily-soiled cottons, linens, towels and other durable items.
+
+__Synthetics__
+A milder version of the Normal cycle. Protects fabrics from wrinkling,
+stretching and pilling. Great for rayon, knit and polyester garments.
+
+
+__Delicates__
+A slow and gentle wash for your delicate fabrics and lightweight items. Perfect for sheers, bras, lace and other handwash-only items.
+
+
+__Colors__
+A basic wash for your everyday colored clothing that wrinkles easily, like jeans. Protects bright- and
+dark-colored garments from fading or bleeding color.
+
+
+__Whites__
+A deep-cleaning wash to brighten your white fabrics. Great for durable whites that need to stay white, like t-shirts, underwear, white jeans, or table linens.
+
+
+__Mix__
+A cold wash for any mixture of fabrics, such as whites and colors in the same load. Great for when you need to wash different types of garments in one wash cycle.
+
+
+__Woolens__
+A slow, cold wash that cleans your washable wool material clothing. Also safe for delicate garments that need the extra protection offered by a gentle cycle.
+
+
+__Delicates__
+A slow and gentle wash for your delicate fabrics and lightweight items. Perfect for sheers, bras, lace and other handwash-only items.
+
+
+__Bedding__
+A heavy-duty wash for your sheets, comforters, blankets, rugs and other big and bulky items.
+
+__Hot Wash__
+A very hot wash for hard-to-remove dirt on sturdy fabrics. Use this wash for disinfecting items, such as dish towels and washcloths
+
+
+__Warm Wash__
+A warm wash for moderately dirty laundry that does not require the extra power of a hot wash. Washing with warm water reduces wrinkles and prevents shrinkage.
+
+
+__Cotton__
+A heavy-duty wash that cleans and disinfects your 100% cotton fabrics, such as t-shirts, sweatshirts and linens.
+
+
+__High Speed Spin__
+Remove excess water from your bulky laundry with a high speed spin so items dry faster. Great for durable, non-delicate clothing and larger items like towels.
+
+__Rinse the Machine__
+This is a short cycle in which the basket is rinsed and drained, removing any residue that may be remaining from the previous cycle, such as excess detergent.
+
+
+__Deep Clean__
+A robust sanitary cycle with the deepest clean on the toughest soil
 
 
 # Payment options
