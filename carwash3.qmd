@@ -197,14 +197,9 @@ Enjoy our powerful arched vacuums with a 180-degree swivel, making it easy to va
 
 We welcome your feedback, comments, and reviews. Please fill out the form below to get in touch with us.
 
-<form action="http://127.0.0.1:5000/submit" method="POST">
-    <label for="name">Name:</label>
-    <input type="text" id="name" name="name" required><br><br>
-    <label for="email">Email or Phone Number:</label>
-    <input type="text" id="email" name="email" required><br><br>
-    <label for="message">Message:</label><br>
-    <textarea id="message" name="message" rows="4" required></textarea><br><br>
-    <input type="submit" value="Submit">
-</form>
+<!-- This just has picture of each auto wash package, downfall is people with bad data can experience issues with imagines loading -->
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1cnPPNDYIocGfCCAkfQMrtFsltvzjAfVDDr42mvj371c_DA/viewform?usp=sf_link" height="200" width="100%" title="Iframe Example"></iframe>
+
 
 </div>

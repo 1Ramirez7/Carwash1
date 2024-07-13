@@ -70,4 +70,30 @@ Our facility features four powerful arched vacuums designed for convenience and 
 **Phone:** (208) 530-6283  
 **Address:** 225 E Yellowstone Hwy, St Anthony, ID 83445
 
+
+## Send a Review
+
+
+We welcome your feedback, comments, and reviews. Please fill out the form below to get in touch with us.
+
+<form action="mailto:eduardo.er.ramirez@gmail.com" method="POST" enctype="text/plain">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required><br><br>
+    <label for="email">Email or Phone Number:</label>
+    <input type="text" id="email" name="email" required><br><br>
+    <label for="message">Message:</label><br>
+    <textarea id="message" name="message" rows="4" required></textarea><br><br>
+    <input type="submit" value="Submit">
+</form>
+
 </div>
+
+
+</div>
+
+<!-- 
+# use mail to in html, basically it opens the mail app on the users end and the send email is the one i use in the mail to code. 
+
+# on mobile it works because it opens options to send the email using email apps on my phone, but on my laptop it gives my mail app options and google. If I use google on pc then it will just open the tab where I choose which profile I want to use (since I have two) and nothing happens afterwards. On pc it also lets me know that the form is not secure and when I click submit I get redirected to danger page suggestion that they might be trying to steal my information which is not good. 
+# mailto is really good to know but I will have to solve the email opening issue on pc, and how to make it secure so users virus protection services do not flag the form! 
+-->
