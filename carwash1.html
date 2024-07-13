@@ -270,7 +270,8 @@ ul.task-list li input[type="checkbox"] {
 <section id="send-a-review" class="level2">
 <h2 class="anchored" data-anchor-id="send-a-review">Send a Review</h2>
 <p>We welcome your feedback, comments, and reviews. Please fill out the form below to get in touch with us.</p>
-<form action="mailto:eduardo.er.ramirez@gmail.com" method="POST" enctype="text/plain">
+<!-- in the coputer science lab, i learn I can edit the action, said action was edited for the mail to or can delete that and have it open a website etc.  -->
+<form action="http://127.0.0.1:5000/submit" method="POST">
 <label for="name">Name:</label> <input type="text" id="name" name="name" required=""><br><br> <label for="email">Email or Phone Number:</label> <input type="text" id="email" name="email" required=""><br><br> <label for="message">Message:</label><br>
 <textarea id="message" name="message" rows="4" required=""></textarea>
 <br><br> <input type="submit" value="Submit">
