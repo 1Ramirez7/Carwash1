@@ -12,9 +12,29 @@ format:
 
 
 
+
+# Choose Service
+
+- [__Wash Cycle Prices__](#Wash-Cycle-Cost)
+- [__Payment options__](#Payment-options)
+- [__Dryers__](#Dryer-wall)
+- [__Contact us__](#contact-us)
+
+
+
+
+
+
 # About Us
 
 Location has 15 Washers & 15 dryers
+
+
+<div class="flex-container">
+
+<div class="flex-item">
+
+__WASHERS__
 
 * one 80lb capacity washer
 * two 60lb capacity washers
@@ -22,9 +42,24 @@ Location has 15 Washers & 15 dryers
 * Five 30lb capacity washers
 * Two 20lb capacity washers
 
+</div>
+
+<div class="flex-item">
+
+__DRYERS__
+
 * one 75lb capacity dryer
 * four 30lb capacity dryers
 * ten 45lb capacity dryers
+
+
+</div>
+
+</div>
+
+
+
+
 
 ![](Images/2_fivewasher_view_westside.jpg)
 
@@ -46,17 +81,17 @@ Choose the link below that applies to your mobile device.
 | Wash Type & Duration    | 20 lb | 30 lb | 40 lb | 60 lb | 80 lb |
 |--------------|-------|-------|-------|-------|-------|
 | Normal - 22 minutes     | $3.50 | $4.50 | $5.50 | $7.50 | $9.50 |
-| Synthetics - 20  | $3.50 | $4.50 | $4.50 | $7.50 | $9.50 |
+| Synthetics - 20  | $3.50 | $4.50 | $5.50 | $7.50 | $9.50 |
 | Delicates - 19   | $3.50 | $4.50 | $5.50 | $7.50 | $9.50 |
-| Colors - 30       | $4.50 | $5.50 | $6.50 | $7.50 | $9.50 |
+| Colors - 30       | $4.50 | $5.50 | $6.50 | $8.50 | $10.50 |
 | Whites - 31       | $4.50 | $5.50 | $6.50 | $8.50 | $10.50 |
-| Mix - 30          | $4.50 | $5.50 | $6.50 | $7.50 | $9.50 |
-| Woolens - 18      | $3.50 | $4.50 | $6.50 | $7.50 | $9.50 |
-| Bedding - 35      | $4.75 | $5.75 | $6.50 | $7.50 | $11.50 |
-| Hot Wash - 30     | $3.50 | $4.50 | $6.50 | $7.50 | $9.50 |
-| Warm Wash - 30    | $3.50 | $4.50 | $6.50 | $7.50 | $9.50 |
-| Cotton - 31       | $3.50 | $4.50 | $6.50 | $7.50 | $9.50 |
-| High Speed Spin - 13 | $3.50 | $4.50 | $6.50 | $7.50 | $-.-- |
+| Mix - 30          | $4.50 | $5.50 | $6.50 | $8.50 | $10.50 |
+| Woolens - 18      | $3.50 | $4.50 | $5.50 | $7.50 | $9.50 |
+| Bedding - 35      | $5.00 | $6.00 | $7.00 | $9.00 | $11.00 |
+| Hot Wash - 30     | $4.50 | $5.50 | $6.50 | $8.50 | $10.50 |
+| Warm Wash - 30    | $4.50 | $5.50 | $6.50 | $8.50 | $10.50 |
+| Cotton - 31       | $4.50 | $5.50 | $6.50 | $8.50 | $10.50 |
+| High Speed Spin - 13 | $3.50 | $4.50 | $5.50 | $7.50 | $8.50 |
 | Rinse the Machine - 1 | $0.25 | $0.25 | $0.25 | $0.25 | $0.25 |
 | Deep Clean - 44   | $5.50 | $6.50 | $7.50 | $9.50 | $11.50 |
 
@@ -142,7 +177,7 @@ You can pay using the app or simply pay with quaters at the machine.
 ![](Images/dryer_screen_decal.jpg)
 
 
-# Contact 
+# Contact us 
 ![](Images/dryer_screen_decal.jpg)
 
 
