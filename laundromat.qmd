@@ -6,6 +6,10 @@ format:
     css: styles.css # wash cycles table
 ---
 
+::: {.column-page}
+
+
+
 # Welcome to Our Laundromat
 
 ![](Images/2_laundry_logo.jpeg)
@@ -15,9 +19,9 @@ format:
 
 # Choose Service
 
-- [__Wash Cycle Prices__](#Wash-Cycle-Cost)
-- [__Payment options__](#Payment-options)
-- [__Dryers__](#Dryer-wall)
+- [__Wash Cycle Prices__](#wash-cycle-cost)
+- [__Payment options__](#payment-options)
+- [__Dryers__](#dryer-wall)
 - [__Contact us__](#contact-us)
 
 
@@ -177,9 +181,7 @@ You can pay using the app or simply pay with quaters at the machine.
 ![](Images/dryer_screen_decal.jpg)
 
 
-# Contact us 
-![](Images/dryer_screen_decal.jpg)
-
+# Contact us
 
 ## Contact Information
 
@@ -187,17 +189,15 @@ You can pay using the app or simply pay with quaters at the machine.
 **Phone:** (208) 530-6283  
 **Address:** 225 E Yellowstone Hwy, St Anthony, ID 83445 
 
-
 ## Send a Review
 
 We welcome your feedback, comments, and reviews. Please fill out the form below to get in touch with us.
 
-<form action="http://127.0.0.1:5000/submit" method="POST">
-    <label for="name">Name:</label>
-    <input type="text" id="name" name="name" required><br><br>
-    <label for="email">Email or Phone Number:</label>
-    <input type="text" id="email" name="email" required><br><br>
-    <label for="message">Message:</label><br>
-    <textarea id="message" name="message" rows="4" required></textarea><br><br>
-    <input type="submit" value="Submit">
-</form>
+<!-- Preston from the Coputer science lab showed me https://www.w3schools.com/html/html_iframe.asp which allows to display a html inside my html. I'm using this iframe code to have a google form for user to fill out.  -->
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfl1bfwtk2KegnlSJZdwjC7ooGQ26kNcHOXBdaieN5dD8xT_A/viewform?usp=sf_link" height="700" width="100%" title="Iframe Example"></iframe>
+
+<!-- The google form only works if no media is included and email is not collected. if media is an option or email is required, the link will required users to sign into google which can cause many troubles unrelated to the car wash -->
+
+
+:::
