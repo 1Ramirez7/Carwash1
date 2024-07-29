@@ -96,6 +96,7 @@ We welcome your feedback, comments, and reviews. Please fill out the form below 
 
 
 ::: {.column-screen}
-<iframe src="https://www.gurufocus.com/term/roa/SMID" height="1000" width="100%" title="Iframe Example"></iframe>
+
+<iframe src="https://www.google.com" height="1000" width="100%" title="Iframe Example"></iframe>
 
 :::
