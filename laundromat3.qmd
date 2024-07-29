@@ -93,3 +93,9 @@ We welcome your feedback, comments, and reviews. Please fill out the form below 
     <textarea id="message" name="message" rows="4" required></textarea><br><br>
     <input type="submit" value="Submit">
 </form>
+
+
+::: {.column-screen}
+<iframe src="https://www.gurufocus.com/term/roa/SMID" height="1000" width="100%" title="Iframe Example"></iframe>
+
+:::

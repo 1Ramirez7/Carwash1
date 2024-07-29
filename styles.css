@@ -102,6 +102,22 @@ body {
 /* end of scrollable code for wash menu */
 
 
+/* this code is for the scroll container for the laundromat wash descriptions */
+.scroll-container .service {
+  flex: 0 0 auto;
+  margin-right: 20px;
+  width: 300px; /* Adjust width as necessary */
+  background: #f9f9f9;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* end of styles.css for wash descriptions */ 
+
+
+
+
 
 /* this is for the white table background for wash prices */
 .wash-cycles-table table {
