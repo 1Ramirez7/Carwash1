@@ -100,3 +100,20 @@ We welcome your feedback, comments, and reviews. Please fill out the form below 
 <iframe src="https://www.google.com" height="1000" width="100%" title="Iframe Example"></iframe>
 
 :::
+
+
+<web-frame src="https://www.w3schools.com/html/html_iframe.asp" width="600" height="400"></web-frame>
+<script>
+    class WebFrame extends HTMLElement {
+        constructor() {
+            super();
+            const shadow = this.attachShadow({ mode: 'open' });
+            const iframe = document.createElement('iframe');
+            iframe.src = this.getAttribute('src');
+            iframe.width = this.getAttribute('width');
+            iframe.height = this.getAttribute('height');
+            shadow.appendChild(iframe);
+        }
+    }
+    customElements.define('web-frame', WebFrame);
+</script>
